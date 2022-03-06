@@ -13,7 +13,8 @@ The goal of this challege is to refactor an existing webpage to ensure it meets 
 # Built With
 - HTML
 - CSS
-- Steps taken
+
+# Process
 
 To complete this task the following steps were taken:
 
